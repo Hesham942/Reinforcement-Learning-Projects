@@ -1,8 +1,3 @@
-Here’s a **professional and efficient README.md** tailored for your *Reinforcement Learning Projects* repository:
-
----
-
-
 # 🧠 Reinforcement Learning Projects
 
 A collection of my **Reinforcement Learning (RL)** projects and experiments.  
