@@ -103,6 +103,3 @@ Inspired by:
 - Various online RL tutorials and research papers
 ```
 
----
-
-Would you like me to make a **“beginner-friendly”** version (with simpler wording and examples) or keep it **professional/portfolio-ready** like this one?
